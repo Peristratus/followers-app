@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "default": "followers-app-94b48",
+    "staging": "followers-angular-5cb4a"
+  },
+  "targets": {}
+}
